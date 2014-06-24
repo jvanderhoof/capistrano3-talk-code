@@ -2,7 +2,6 @@
 lock '3.2.1'
 
 set :application, 'g3'
-#set :repo_url, 'https://jvanderhoof:14gotten@github.com:secondrotation/g3.git'
 set :repo_url, 'git@github.com:secondrotation/g3.git'
 set :deploy_to, '/home/deploy/g3'
 set :user, 'deploy'
